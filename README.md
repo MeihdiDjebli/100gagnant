@@ -1,6 +1,6 @@
 # Le 100 gagnant
 
-![demo]:(100gagnant.gif)
+[logo]: https://github.com/MeihdiDjebli/100gagnant/blob/main/100gagnant.gif?raw=true "Démo"
 
 Le 100 gagnant est un jeu de hasard dont le but est de cumuler des jetons pour un total de 100 points en moins de tours possibles.
 
