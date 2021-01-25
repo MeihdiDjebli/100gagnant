@@ -1,5 +1,7 @@
 # Le 100 gagnant
 
+![demo]:(100gagnant.gif)
+
 Le 100 gagnant est un jeu de hasard dont le but est de cumuler des jetons pour un total de 100 points en moins de tours possibles.
 
 Le joueur a à sa disposition une infinité de jeton de différentes valeurs. Il existe des jetons à 5, 10, 20 et 50 points.
